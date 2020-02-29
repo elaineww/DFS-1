@@ -1,4 +1,5 @@
-# DFS0
+# DFS-1
 
-ECUAD DFS Assignment 0: Designing for Screens - Interactive Shapes
+ECUAD DFS Assignment 1: Designing for Screens - Interactive Shapes
+
 https://codepen.io/elaineww/pen/NJxgbQ
